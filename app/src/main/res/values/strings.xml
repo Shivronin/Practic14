@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Practic14</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="info">Говядина на косточке - 500г., Капуста- 400г, 3-4 картофелины, 1 морковь, 1 больша луковица, 3-4 зуба чеснока, 2 вкусных сладких свеклы. Можно предварительно попробовать. Безвкусная свекла будет просто бесполезна, 2-3 ст.л. томатной пасты. Можно использовать и нормальные, свежие помидоры или помидоры в собственном соку. Я пользуюсь обычно именно ими, 2.ч.л соли.</string>
+    <string name="borsh">TODO</string>
+    <string name="name">Борщ</string>
+    <string name="time">10:09</string>
+    <string name="btn1">Спагетти</string>
+    <string name="btn2">Мол. Коктейль</string>
+    <string name="btn3">Блинчики</string>
+    <string name="btn4">Цезарь</string>
+    <string name="btn5">Борщ</string>
+    <string name="image1">TODO</string>
+    <string name="time">10:09</string>
+    <string name="next">Next</string>
+    <string name="cookbook">CookBook</string>
+    <string name="icon">TODO</string>
+    <string name="time">10:09</string>
+    <string name="cupckacke">TODO</string>
+    <string name="sat">TODO</string>
+    <string name="milk">TODO</string>
+    <string name="cesar">TODO</string>
+</resources>
